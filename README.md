@@ -181,10 +181,9 @@ All protected routes require a valid JWT token in the `Authorization` header:
 ## 👤 Author
 
 **Atharv Pokale**
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/atharv-pokale-dev/)
 
 ---
 
 > 💡 **Tip**: Make sure to check the console for any server-side errors during setup. Ensure both the client and server are running simultaneously for the full experience.
 
-Made with ❤️ for a more transparent management process.
