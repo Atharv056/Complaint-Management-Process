@@ -191,7 +191,7 @@ All protected routes require a valid JWT token in the `Authorization` header:
 ## 👤 Author
 q
 **Atharv Pokale**
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/atharv-pokale-dev/)
+- LinkedIn: [Visit LinkedIn Profile](https://www.linkedin.com/in/atharv-pokale-dev/)
 
 ---
 
