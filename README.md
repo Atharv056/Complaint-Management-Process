@@ -115,7 +115,9 @@ npm install
 cd ../client
 npm install
 ```
-
+####
+    cd server && npm start
+    cd client && npm run dev
 ---
 
 ## 🚀 Usage
@@ -145,12 +147,20 @@ npm install
 
 ## 🖼️ Screenshots / Demo
 
-### 🖥️ Desktop View
-> ![Landing Page Placeholder](https://via.placeholder.com/800x450?text=Landing+Page+Preview)
+### 🏠 Homepage
+> ![Homepage](homepage.png)
 > *The modern landing page welcoming users to the platform.*
 
-### 📊 Analytics Dashboard
-> ![Admin Dashboard Placeholder](https://via.placeholder.com/800x450?text=Admin+Analytics+Preview)
+### 📊 Dashboard
+> ![Dashboard](Dashboard.png)
+> *User dashboard showing complaint overview.*
+
+### 📝 Complaints
+> ![Complaints](complaints.png)
+> *Complaint management interface.*
+
+### 📈 Analytics Dashboard
+> ![Analytics Dashboard](AnalyticsDashboard.png)
 > *Comprehensive analytics for administrators to monitor system performance.*
 
 ---
@@ -179,7 +189,7 @@ All protected routes require a valid JWT token in the `Authorization` header:
 ---
 
 ## 👤 Author
-
+q
 **Atharv Pokale**
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/atharv-pokale-dev/)
 
